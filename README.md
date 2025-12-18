@@ -1,78 +1,102 @@
-# Hi, I’m Sumedha Verma 👋
+# 👩‍💻 Sumedha Verma | Software Engineer & Applied ML Developer
 
-Final-year B.Tech student in **Electrical Engineering (Minor in Data Science)** at Madan Mohan Malviya University of Technology, Gorakhpur.  
-Actively transitioning into **Software Development and Applied Machine Learning**, with a strong focus on building practical, end-to-end systems.
-
----
-
-## 👩‍💻 What I Do
-- Build **real-time ML systems** with a focus on usability and performance  
-- Develop **user-facing web applications** with clean UI and clear problem framing  
-- Contribute to **open-source projects** and collaborative development workflows  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sumedha-verma)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/sumve)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:sumedhawverma@gmail.com)
 
 ---
 
-## 🧠 Experience
-**Intern | NIELIT Gorakhpur (MeitY, Government of India)**  
-- Developed a real-time **Indian Sign Language to Text translation system** using TensorFlow, MobileNetV2, and MediaPipe  
-- Achieved **~98% validation accuracy** on a 49-class custom dataset  
-- Implemented class balancing, strong data augmentation, and progressive fine-tuning to improve generalization  
+## 🌱 About Me
+
+Final-year **B.Tech Electrical Engineering** student with a **Minor in Data Science**, actively transitioning into **Software Development and Applied Machine Learning**.
+
+I focus on building **end-to-end, real-world systems** that combine machine learning with clean, usable interfaces. My work emphasizes model generalization, performance, and practical deployment rather than isolated experimentation.
+
+Currently interning at **NIELIT Gorakhpur (MeitY, Government of India)**, where I work on real-time computer vision systems.
+
+---
+
+## 🛠 Skills & Tech Stack
+
+| Category | Technologies |
+|--------|-------------|
+| **Programming Languages** | C, C++, Python, JavaScript |
+| **Frontend** | HTML, CSS, Bootstrap, Tailwind CSS |
+| **Machine Learning** | TensorFlow, Keras, Scikit-learn |
+| **Data & Analysis** | Pandas, NumPy, Matplotlib, Seaborn |
+| **Computer Vision** | MediaPipe, OpenCV |
+| **Tools & Platforms** | Git, GitHub, VS Code |
+| **Deployment** | Netlify, GitHub Pages |
+| **Databases** | SQL |
+
+---
+
+## 🚀 Notable Projects
+
+### **ISLtoText | Indian Sign Language to Text**
+- Real-time webcam-based ISL to text translation system  
+- Built using **MobileNetV2 transfer learning** and **MediaPipe hand landmarks**  
+- Achieved **~98% validation accuracy** on a **49-class custom dataset**  
+- Includes gesture stabilization and continuous prediction logic  
+
+---
+
+### **SunNotScreen | Sunscreen Photostability Tester**
+- Web app that analyzes sunscreen ingredient combinations  
+- Flags **photounstable ingredient pairs** (e.g., Avobenzone + Octinoxate)  
+- Designed for clarity and public usability  
+- Deployed on Netlify  
+
+🔗 https://ismysunscreenstable.netlify.app
+
+---
+
+### **Keyblaze | Typing Speed Tester**
+- Clean, minimal typing speed test application  
+- Real-time WPM, CPM, and error tracking  
+- Focused on performance and UI responsiveness  
+
+🔗 https://sumve.github.io/keyblaze
+
+---
+
+## 💼 Experience
+
+**Intern | NIELIT Gorakhpur (MeitY, Govt. of India)**  
+- Developed a real-time **Indian Sign Language to Text translation system**  
+- Implemented class balancing, strong data augmentation, and progressive fine-tuning  
+- Improved generalization on unseen gestures using structured training pipelines  
 
 **Contributor | GirlScript Summer of Code ’25**  
-- Contributed to open-source projects using Git/GitHub workflows  
-- Implemented feature and UI enhancements through reviewed and merged PRs  
+- Contributed to open-source projects via Git/GitHub  
+- Worked on feature enhancements, UI improvements, and reviewed PRs  
 
 ---
 
-## 🚀 Featured Projects
-- **ISLtoText**  
-  Real-time Indian Sign Language to Text system using webcam input, transfer learning, and gesture stabilization logic  
+## 🏆 Achievements & Leadership
 
-- **SunNotScreen**  
-  Web app that analyzes sunscreen ingredient photostability and flags unstable combinations  
-  Live: https://ismysunscreenstable.netlify.app  
-
-- **Keyblaze**  
-  Typing speed tester focused on performance, clean UI, and accurate metrics  
-  Live: https://sumve.github.io/keyblaze  
-
----
-
-## 🛠️ Tech Stack
-**Languages:** C/C++, Python, JavaScript, HTML/CSS  
-**Frameworks & Tools:** TensorFlow, MediaPipe, Pandas, NumPy, Git/GitHub, Netlify, GitHub Pages  
-**Styling:** Bootstrap, TailwindCSS  
-**Databases:** SQL  
-
----
-
-## 📚 Coursework & Learning
-- Data Structures & Algorithms (150+ problems solved)  
-- Data Science, Computational Data Analytics  
-- Web Data Mining, Data Visualization with Python  
-
----
-
-## 🏅 Leadership & Responsibility
-- **Tech Editorial Lead | CodeChef MMMUT Chapter**  
-  Organized competitive coding events and mentored 300+ students  
-- **Class Representative**  
-  Acted as liaison between faculty and students  
-
----
-
-## 📜 Certifications
-- NPTEL: Optimization Theory and Algorithms (IIT Madras)  
-- NPTEL: Fuzzy Sets, Logic and Systems (IIT Kanpur)  
-- Google: Introduction to Generative AI, Large Language Models, Generative AI Fundamentals  
+- Tech Editorial Lead, **CodeChef MMMUT Chapter**  
+- Mentored **300+ students** in competitive programming events  
+- Solved **150+ DSA problems** across platforms  
+- NPTEL Certified in:
+  - Optimization Theory and Algorithms (IIT Madras)  
+  - Fuzzy Sets, Logic and Systems (IIT Kanpur)  
+- Google Certified:
+  - Generative AI Fundamentals  
+  - Introduction to Large Language Models  
 
 ---
 
 ## 📫 Connect With Me
+
+Open to **software development, ML, and applied AI roles**.
+
 - LinkedIn: https://linkedin.com/in/sumedha-verma  
 - GitHub: https://github.com/sumve  
 - Email: sumedhawverma@gmail.com  
 
 ---
 
-*I enjoy turning ideas into working systems and am actively seeking opportunities in software development and applied ML.*
+<p align="center">
+  <i>Crafting systems where learning meets usability.</i>
+</p>
